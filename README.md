@@ -1,1 +1,1 @@
-"# Trello-GCal-Sync" 
+# Trello-GCal-Sync
